@@ -15,3 +15,6 @@ name = "dir_demo"
 
 [[example]]
 name = "glob_demo"
+
+[[example]]
+name = "pattern_demo"
