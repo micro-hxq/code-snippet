@@ -18,3 +18,6 @@ name = "glob_demo"
 
 [[example]]
 name = "pattern_demo"
+
+[[example]]
+name = "at_bindings_demo"
