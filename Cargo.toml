@@ -24,3 +24,6 @@ name = "at_bindings_demo"
 
 [[example]]
 name = "reborrow_mut_ref_demo"
+
+[[example]]
+name = "const_generics_demo"
