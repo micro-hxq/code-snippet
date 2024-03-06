@@ -21,3 +21,6 @@ name = "pattern_demo"
 
 [[example]]
 name = "at_bindings_demo"
+
+[[example]]
+name = "reborrow_mut_ref_demo"
