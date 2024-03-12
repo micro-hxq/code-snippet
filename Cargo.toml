@@ -33,3 +33,6 @@ name = "add_trait_demo"
 
 [[example]]
 name = "same_method_demo"
+
+[[example]]
+name = "newtype_demo"
