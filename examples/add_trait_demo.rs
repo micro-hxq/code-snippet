@@ -1,6 +1,6 @@
 use std::ops::Add;
 
-#[derive(Debug)]
+#[derive(Debug, PartialEq)]
 struct Complex<T> {
     re: T,
     im: T,
@@ -33,5 +33,6 @@ fn main() {
     let c2 = Complex::new(3, 4);
     let c3 = c1 + c2;
     println!("{:?}", c3);
+    assert_eq!(c3, Complex::new(4, 6));
     assert!(c3.re == 4 && c3.im == 6);
 }

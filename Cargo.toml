@@ -30,3 +30,6 @@ name = "const_generics_demo"
 
 [[example]]
 name = "add_trait_demo"
+
+[[example]]
+name = "same_method_demo"
