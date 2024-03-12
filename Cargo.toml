@@ -27,3 +27,6 @@ name = "reborrow_mut_ref_demo"
 
 [[example]]
 name = "const_generics_demo"
+
+[[example]]
+name = "add_trait_demo"
