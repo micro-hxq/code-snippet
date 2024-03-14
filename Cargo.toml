@@ -36,3 +36,6 @@ name = "same_method_demo"
 
 [[example]]
 name = "newtype_demo"
+
+[[example]]
+name = "lifetime_bound_demo"
