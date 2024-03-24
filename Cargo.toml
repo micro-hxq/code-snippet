@@ -39,3 +39,6 @@ name = "newtype_demo"
 
 [[example]]
 name = "lifetime_bound_demo"
+
+[[example]]
+name = "format_demo"
